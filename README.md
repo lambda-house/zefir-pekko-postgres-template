@@ -14,10 +14,10 @@ sbt new file://zefir-service.g8
 sbt new file:///Users/timur/work/zefir/zefir-service.g8
 ```
 
-### From GitHub (after publishing)
+### From GitHub
 
 ```bash
-sbt new your-org/zefir-service.g8
+sbt new lambda-house/zefir-pekko-postgres-template
 ```
 
 ## Template Properties
